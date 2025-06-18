@@ -29,13 +29,12 @@
 
 ### 🛠️ Tools & IDEs
 <p align="left">
-   ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v3.png)
-   ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-   ![Git](https://img.icons8.com/color/48/000000/git.png)
-   ![Eclipse](https://img.icons8.com/officel/48/000000/java-eclipse.png)
-   ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="max-width:100%; height:auto;" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" style="max-width:100%; height:auto;" />
+  <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png" style="max-width:100%; height:auto;" />
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" style="max-width:100%; height:auto;" />
+  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" style="max-width:100%; height:auto;" />
 </p>
-
 ---
 
 ## 📊 GitHub Stats
