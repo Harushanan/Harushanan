@@ -1,9 +1,14 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f1/7d/87/f17d87533e6a8d4d2c41c67d3e6d946d.gif" alt="Banner" width="100%" />
+</p>
+
 # 👋 Hey there, I'm Harushanan!
 
 🌱 I’m currently an undergraduate student.
 
 <div align="right">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
@@ -11,7 +16,7 @@
 ## 🔧 Tech Stack I Work With
 
 ### 💻 Programming & Scripting
-<p align="left">
+<p>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48"/>
@@ -21,7 +26,7 @@
 </p>
 
 ### 🚀 Web & App Development
-<p align="left">
+<p>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="48"/>
@@ -29,7 +34,7 @@
 </p>
 
 ### 🛠️ Tools & IDEs
-<p align="left">
+<p>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="48"/>
   <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png" width="48"/>
@@ -37,7 +42,7 @@
 </p>
 
 ### 📱 Mobile Development Tools
-<p align="left">
+<p>
   <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="48"/>
 </p>
 
@@ -73,6 +78,3 @@
 </p>
 
 ## 💼 See My Projects 👇
-
-
----
