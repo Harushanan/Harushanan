@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Harushanan!
-
+🌱 I’m currently an undergraduate student  
 <img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
 
 ---
 
@@ -31,15 +30,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harushanan&show_icons=true&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harushanan&layout=compact&theme=tokyonight" width="49%" />
-</p>
+</div>
 
 ---
 
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
 ---
+
+## ⚡ GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harushanan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" />
+</div>
