@@ -20,15 +20,12 @@
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![GraphQL](https://img.icons8.com/color/48/null/graphql.png)
 
 ### 🛠️ Tools & IDEs
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Eclipse](https://img.icons8.com/officel/48/000000/java-eclipse.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 
 ---
 
