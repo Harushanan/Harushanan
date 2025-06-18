@@ -1,6 +1,9 @@
 # 👋 Hey there, I'm Harushanan!
 🌱 I’m currently an undergraduate student  
-<img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
+<div style="text-align: right;">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="max-width: 100%; height: auto; width: 300px;" />
+</div>
+
 
 ---
 
@@ -60,3 +63,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" style="max-width: 100%; height: auto;" />
 </p>
+
+## 💼 See My Projects 👇
+
