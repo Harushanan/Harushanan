@@ -33,8 +33,10 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" style="max-width:100%; height:auto;" />
   <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png" style="max-width:100%; height:auto;" />
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" style="max-width:100%; height:auto;" />
-  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" style="max-width:100%; height:auto;" />
 </p>
+---
+### 🛠️ Mobile Application Tools
+ <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" style="max-width:100%; height:auto;" />
 ---
 
 ## 📊 GitHub Stats
