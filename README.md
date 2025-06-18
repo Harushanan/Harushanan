@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Harushanan!
 
-🌱 I’m currently an undergraduate student passionate about tech, design, and building impactful software.
+🌱 I’m currently an undergraduate student.
 
 <div align="right">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" />
@@ -66,14 +66,13 @@
 
 ---
 
-## 💼 See My Projects 👇
-
-🚀 Dive into my repositories to explore cool **real-world projects**, innovative **UI designs**, and practical **problem-solving solutions** that I’ve built with love and curiosity!
-
----
-
 ## 🙏 Thank You for Visiting!
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
 </p>
+
+## 💼 See My Projects 👇
+
+
+---
