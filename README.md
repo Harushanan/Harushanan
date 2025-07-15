@@ -1,8 +1,6 @@
 
 # 👋 Hey there, I'm Harushanan!
 
-🎓 I’m currently an **undergraduate student**, passionate about full-stack development and open-source.
-
 ---
 
 ## 📊 GitHub Stats
