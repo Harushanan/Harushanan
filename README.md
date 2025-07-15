@@ -1,17 +1,7 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%" />
-</p>
 
 # 👋 Hey there, I'm Harushanan!
 
 🎓 I’m currently an **undergraduate student**, passionate about full-stack development and open-source.
-
-<div align="right">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" />
-</div>
-
----
 
 ## 🔧 Tech Stack I Work With
 
@@ -74,10 +64,6 @@
 ---
 
 ## 🙏 Thank You for Visiting!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
-</p>
 
 ---
 
